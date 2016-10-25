@@ -1,0 +1,35 @@
+{
+    "has-headers": true,
+    "date-format": "Ymd",
+    "delimiter": ",",
+    "import-account": 511,
+    "specifics": {
+        "IngDescription": 1
+    },
+    "column-count": 9,
+    "column-roles": [
+        "date-transaction",
+        "opposing-name",
+        "account-iban",
+        "opposing-iban",
+        "_ignore",
+        "ing-debet-credit",
+        "amount",
+        "_ignore",
+        "description"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "column-roles-complete": false,
+    "column-mapping-config": [],
+    "column-mapping-complete": false
+}

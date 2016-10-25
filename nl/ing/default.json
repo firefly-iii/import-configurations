@@ -2,7 +2,7 @@
     "has-headers": true,
     "date-format": "Ymd",
     "delimiter": ",",
-    "import-account": 511,
+    "import-account": 1,
     "specifics": {
         "IngDescription": 1
     },

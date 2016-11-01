@@ -20,7 +20,7 @@
     ],
     "column-do-mapping": [
         false,
-        false,
+        true,
         false,
         false,
         false,
@@ -30,6 +30,8 @@
         false
     ],
     "column-roles-complete": false,
-    "column-mapping-config": [],
+    "column-mapping-config": {
+        "1": []
+    },
     "column-mapping-complete": false
 }

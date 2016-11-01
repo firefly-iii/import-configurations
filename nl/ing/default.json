@@ -21,8 +21,8 @@
     "column-do-mapping": [
         false,
         true,
-        false,
-        false,
+        true,
+        true,
         false,
         false,
         false,
@@ -31,7 +31,9 @@
     ],
     "column-roles-complete": false,
     "column-mapping-config": {
-        "1": []
+        "1": [],
+        "2": [],
+        "3": []
     },
     "column-mapping-complete": false
 }

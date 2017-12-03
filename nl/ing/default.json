@@ -35,5 +35,7 @@
         "2": [],
         "3": []
     },
-    "column-mapping-complete": false
+    "column-mapping-complete": false,
+    "apply_rules": true,
+    "match_bills": false
 }

@@ -1,0 +1,51 @@
+{
+    "has-headers": true,
+    "date-format": "Y-m-d",
+    "delimiter": ",",
+    "import-account": 0,
+    "specifics": [],
+    "column-count": 14,
+    "column-roles": [
+        "_ignore",
+        "date-transaction",
+        "description",
+        "currency-code",
+        "amount",
+        "_ignore",
+        "_ignore",
+        "account-name",
+        "_ignore",
+        "opposing-name",
+        "_ignore",
+        "budget-name",
+        "_ignore",
+        "category-name"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true
+    ],
+    "column-roles-complete": false,
+    "column-mapping-config": {
+        "3": [],
+        "7": [],
+        "9": [],
+        "11": [],
+        "13": []
+    },
+    "column-mapping-complete": false,
+    "apply_rules": true,
+    "match_bills": true
+}

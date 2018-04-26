@@ -16,9 +16,9 @@
     "column-do-mapping": [
         false,
         false,
-        false,
-        false,
-        false,
+        true,
+        true,
+        true,
         false
     ],
     "column-mapping-config": [],

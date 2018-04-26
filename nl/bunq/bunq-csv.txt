@@ -1,0 +1,34 @@
+{
+    "has-headers": true,
+    "date-format": "Y-m-d",
+    "delimiter": ",",
+    "import-account": 1,
+    "specifics": [],
+    "column-count": 6,
+    "column-roles": [
+        "date-transaction",
+        "amount",
+        "account-iban",
+        "opposing-iban",
+        "opposing-name",
+        "description"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "column-mapping-config": [],
+    "file-type": "csv",
+    "has-config-file": true,
+    "apply-rules": false,
+    "match-bills": false,
+    "auto-start": false,
+    "column-roles-complete": false,
+    "column-mapping-complete": false,
+    "initial-config-complete": false,
+    "has-file-upload": false
+}

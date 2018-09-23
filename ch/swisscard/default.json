@@ -2,13 +2,13 @@
     "has-headers": true,
     "date-format": "d.m.Y",
     "delimiter": ",",
-    "import-account": 0,
+    "import-account": 18,
     "specifics": [],
     "column-count": 11,
     "column-roles": [
         "date-transaction",
         "date-interest",
-        "internal-reference",
+        "description",
         "amount",
         "description",
         "description",
@@ -19,22 +19,23 @@
         "_ignore"
     ],
     "column-do-mapping": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
         false,
         false,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
     ],
     "column-roles-complete": false,
-    "column-mapping-config": {
-    },
+    "column-mapping-config": [],
     "column-mapping-complete": false,
-    "apply_rules": false,
-    "match_bills": true
+    "apply_rules": true,
+    "match_bills": true,
+    "file-type": "csv",
+    "apply-rules": true
 }

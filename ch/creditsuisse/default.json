@@ -1,0 +1,31 @@
+{
+    "has-headers": true,
+    "date-format": "d.m.Y",
+    "delimiter": ",",
+    "import-account": 12,
+    "specifics": [],
+    "column-count": 6,
+    "column-roles": [
+        "date-transaction",
+        "description",
+        "amount_debit",
+        "amount_credit",
+        "date-interest",
+        "_ignore"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "column-roles-complete": false,
+    "column-mapping-config": [],
+    "column-mapping-complete": false,
+    "apply_rules": true,
+    "match_bills": true,
+    "file-type": "csv",
+    "apply-rules": true
+}

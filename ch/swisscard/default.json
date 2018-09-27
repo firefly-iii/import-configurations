@@ -1,0 +1,41 @@
+{
+    "has-headers": true,
+    "date-format": "d.m.Y",
+    "delimiter": ",",
+    "import-account": 18,
+    "specifics": [],
+    "column-count": 11,
+    "column-roles": [
+        "date-transaction",
+        "date-interest",
+        "description",
+        "amount",
+        "description",
+        "description",
+        "_ignore",
+        "_ignore",
+        "external-id",
+        "rabo-debit-credit",
+        "_ignore"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "column-roles-complete": false,
+    "column-mapping-config": [],
+    "column-mapping-complete": false,
+    "apply_rules": true,
+    "match_bills": true,
+    "file-type": "csv",
+    "apply-rules": true
+}

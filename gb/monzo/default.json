@@ -1,0 +1,47 @@
+{
+    "file-type": "csv",
+    "date-format": "Y-m-d\\TH:i:s\\Z",
+    "has-headers": true,
+    "delimiter": ",",
+    "apply-rules": true,
+    "specifics": [],
+    "import-account": 12,
+    "column-count": 12,
+    "column-roles": [
+        "_ignore",
+        "date-transaction",
+        "_ignore",
+        "_ignore",
+        "amount",
+        "_ignore",
+        "category-name",
+        "_ignore",
+        "description",
+        "_ignore",
+        "note",
+        "_ignore"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "column-mapping-config": {
+        "3": [],
+        "6": {
+            "cash": 8,
+            "eating_out": 4,
+            "entertainment": 11,
+            "groceries": 4
+        }
+    }
+}

@@ -5,7 +5,7 @@
     "delimiter": ";",
     "apply-rules": true,
     "specifics": [],
-    "import-account": 42,
+    "import-account": 1,
     "column-count": 11,
     "column-roles": [
         "account-iban",

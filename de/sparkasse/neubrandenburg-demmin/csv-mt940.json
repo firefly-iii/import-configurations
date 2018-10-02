@@ -2,15 +2,15 @@
     "file-type": "csv",
     "date-format": "d.m.y",
     "has-headers": true,
-    "delimiter": ",",
+    "delimiter": ";",
     "apply-rules": true,
     "specifics": [],
-    "import-account": 1,
+    "import-account": 42,
     "column-count": 11,
     "column-roles": [
         "account-iban",
+        "date-invoice",
         "date-transaction",
-        "date-due",
         "tags-comma",
         "description",
         "opposing-name",
@@ -18,7 +18,7 @@
         "opposing-bic",
         "amount",
         "currency-code",
-        "_ignore"
+        "note"
     ],
     "column-do-mapping": [
         false,

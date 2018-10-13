@@ -1,15 +1,15 @@
 # Firefly III Import Configurations
 This repository contains standardized import configurations for Firefly III. Various banks and financial institutions have already been added by contributing users. Thanks!
 
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC autolink="true" -->
 
-- Import configurations
-	- Firefly III
-	- Great Britain
-	- The Netherlands
-	- Switserland
-	- US
-- Adding an import configuration
+- [Import configurations](#import-configurations)
+	- [Firefly III](#firefly-iii)
+	- [Great Britain](#great-britain)
+	- [The Netherlands](#the-netherlands)
+	- [Switserland](#switserland)
+	- [US](#us)
+- [Adding an import configuration](#adding-an-import-configuration)
 
 <!-- /MarkdownTOC -->
 

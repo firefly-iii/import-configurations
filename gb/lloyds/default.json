@@ -1,6 +1,6 @@
 {
     "file-type": "csv",
-    "date-format": "dd\/mm\/Y",
+    "date-format": "d\/m\/Y",
     "has-headers": true,
     "delimiter": ",",
     "apply-rules": true,

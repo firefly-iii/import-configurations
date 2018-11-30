@@ -9,7 +9,7 @@ This repository contains standardized import configurations for Firefly III. Var
 	- [The Netherlands](#the-netherlands)
 	- [Switserland](#switserland)
 	- [US](#us)
-	- [Austria](#at)
+	- [Austria](#austria)
 - [Adding an import configuration](#adding-an-import-configuration)
 
 <!-- /MarkdownTOC -->

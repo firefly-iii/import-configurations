@@ -1,0 +1,26 @@
+{
+    "file-type": "csv",
+    "date-format": "d.m.Y",
+    "has-headers": false,
+    "delimiter": ";",
+    "apply-rules": false,
+    "specifics": [],
+    "import-account": 12,
+    "column-count": 6,
+    "column-roles": [
+        "account-iban",
+        "description",
+        "date-payment",
+        "date-transaction",
+        "amount",
+        "foreign-currency-code"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ]
+}

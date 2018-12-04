@@ -10,6 +10,7 @@ This repository contains standardized import configurations for Firefly III. Var
 	- [Switserland](#switserland)
 	- [US](#us)
 	- [Austria](#austria)
+	- [Czechia](#czechia)
 - [Adding an import configuration](#adding-an-import-configuration)
 
 <!-- /MarkdownTOC -->
@@ -32,7 +33,7 @@ This repository contains standardized import configurations for Firefly III. Var
 * [bunq](https://github.com/firefly-iii/import-configurations/blob/master/nl/bunq/default.json)
 * [SNS](https://github.com/firefly-iii/import-configurations/blob/master/nl/sns/default.json)
 
-### Switserland
+### Switzerland
 * [Credit Suisse](https://github.com/firefly-iii/import-configurations/blob/master/ch/creditsuisse/default.json)
 * [Swisscard](https://github.com/firefly-iii/import-configurations/blob/master/ch/swisscard/default.json)
 
@@ -41,6 +42,10 @@ This repository contains standardized import configurations for Firefly III. Var
 
 ### Austria
 * [Easybank](https://github.com/firefly-iii/import-configurations/blob/master/at/easybank/default.json)
+
+### Czechia
+* [Air Bank](https://github.com/firefly-iii/import-configurations/blob/master/cz/airbank/default.json)
+* [Poštovní spořitelna](https://github.com/firefly-iii/import-configurations/blob/master/cz/postovnisporitelna/default.json)
 
 ## Adding an import configuration
 

@@ -7,10 +7,11 @@ This repository contains standardized import configurations for Firefly III. Var
 	- [Firefly III](#firefly-iii)
 	- [Great Britain](#great-britain)
 	- [The Netherlands](#the-netherlands)
-	- [Switserland](#switserland)
+	- [Switzerland](#switzerland)
 	- [US](#us)
 	- [Austria](#austria)
 	- [Czechia](#czechia)
+	- [Belgium](#belgium)
 - [Adding an import configuration](#adding-an-import-configuration)
 
 <!-- /MarkdownTOC -->
@@ -46,6 +47,9 @@ This repository contains standardized import configurations for Firefly III. Var
 ### Czechia
 * [Air Bank](https://github.com/firefly-iii/import-configurations/blob/master/cz/airbank/default.json)
 * [Poštovní spořitelna](https://github.com/firefly-iii/import-configurations/blob/master/cz/postovnisporitelna/default.json)
+
+### Belgium
+* [Fintro](https://github.com/firefly-iii/import-configurations/blob/master/be/fintro/default.json)
 
 ## Adding an import configuration
 

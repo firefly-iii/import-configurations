@@ -23,6 +23,9 @@ This repository contains standardized import configurations for Firefly III. Var
 * [v4.1.4](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/firefly-iii/4.1.4.json)
 * [v4.6.11](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/firefly-iii/4.6.11.json)
 
+### Brazil
+* [Banco do Brasil](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/br/Banco_do_Brasil/default.json)
+
 ### Great Britain
 * [Revolut](https://github.com/firefly-iii/import-configurations/blob/master/gb/revolut/default.json)
 * [Monzo](https://github.com/firefly-iii/import-configurations/blob/master/gb/monzo/default.json)

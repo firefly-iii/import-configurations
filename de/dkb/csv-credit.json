@@ -1,0 +1,26 @@
+{
+    "file-type": "csv",
+    "date-format": "d.m.Y",
+    "has-headers": true,
+    "delimiter": ";",
+    "apply-rules": true,
+    "specifics": [],
+    "import-account": 1,
+    "column-count": 6,
+    "column-roles": [
+        "_ignore",
+        "date-transaction",
+        "date-invoice",
+        "description",
+        "amount",
+        "_ignore"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ]
+}

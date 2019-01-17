@@ -33,6 +33,11 @@ This repository contains standardized import configurations for Firefly III. Var
 ### Austria
 * [Easybank](https://github.com/firefly-iii/import-configurations/blob/master/at/easybank/default.json)
 
+### Germany
+* [Deutsche Kreditbank](https://github.com/firefly-iii/import-configurations/blob/master/de/dkb/csv-credit.json)
+* [Sparkasse Neubrandenburg (CAMT CSV)](https://github.com/firefly-iii/import-configurations/blob/master/de/sparkasse/neubrandenburg-demmin/csv-camt.json)
+* [Sparkasse Neubrandenburg (mt-940 CSV)](https://github.com/firefly-iii/import-configurations/blob/master/de/sparkasse/neubrandenburg-demmin/csv-mt940.json)
+
 ### Czechia
 * [Air Bank](https://github.com/firefly-iii/import-configurations/blob/master/cz/airbank/default.json)
 * [Poštovní spořitelna](https://github.com/firefly-iii/import-configurations/blob/master/cz/postovnisporitelna/default.json)

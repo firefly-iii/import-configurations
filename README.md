@@ -15,6 +15,8 @@ This repository contains standardized import configurations for Firefly III. Var
 ### Great Britain
 * [Revolut](https://github.com/firefly-iii/import-configurations/blob/master/gb/revolut/default.json)
 * [Monzo](https://github.com/firefly-iii/import-configurations/blob/master/gb/monzo/default.json)
+* [Barclays](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/gb/barclays/default.json)
+* [Lloyds](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/gb/lloyds/default.json)
 
 ### The Netherlands
 * [Rabobank (new CSV)](https://github.com/firefly-iii/import-configurations/blob/master/nl/rabobank/rabobank-new-csv-format.json)
@@ -22,6 +24,7 @@ This repository contains standardized import configurations for Firefly III. Var
 * [ING](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/nl/ing/default.json)
 * [bunq](https://github.com/firefly-iii/import-configurations/blob/master/nl/bunq/default.json)
 * [SNS](https://github.com/firefly-iii/import-configurations/blob/master/nl/sns/default.json)
+* [Regiobank](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/nl/regiobank/regiobank.json)
 
 ### Switzerland
 * [Credit Suisse](https://github.com/firefly-iii/import-configurations/blob/master/ch/creditsuisse/default.json)

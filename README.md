@@ -9,6 +9,9 @@ This repository contains standardized import configurations for Firefly III. Var
 * [v4.1.4](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/firefly-iii/4.1.4.json)
 * [v4.6.11](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/firefly-iii/4.6.11.json)
 
+### Other software
+* [Grisbi](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/other-software/grisbi.json)
+
 ### Brazil
 * [Banco do Brasil](https://raw.githubusercontent.com/firefly-iii/import-configurations/master/br/Banco_do_Brasil/default.json)
 

@@ -1,0 +1,30 @@
+{
+    "file-type": "csv",
+    "date-format": "m\/d\/Y",
+    "has-headers": true,
+    "delimiter": ",",
+    "apply-rules": true,
+    "specifics": [],
+    "import-account": 16,
+    "column-count": 8,
+    "column-roles": [
+        "note",
+        "date-transaction",
+        "description",
+        "amount",
+        "note",
+        "internal-reference",
+        "_ignore",
+        "_ignore"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ]
+}

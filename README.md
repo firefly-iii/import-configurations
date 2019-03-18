@@ -35,6 +35,7 @@ This repository contains standardized import configurations for Firefly III. Var
 
 ### US
 * [Wells Fargo](https://github.com/firefly-iii/import-configurations/blob/master/us/wellsfargo/default.json)
+* [Chase](https://github.com/firefly-iii/import-configurations/blob/master/us/chase/default.json)
 
 ### Austria
 * [Easybank](https://github.com/firefly-iii/import-configurations/blob/master/at/easybank/default.json)

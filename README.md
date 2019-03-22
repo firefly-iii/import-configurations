@@ -52,6 +52,9 @@ This repository contains standardized import configurations for Firefly III. Var
 ### Belgium
 * [Fintro](https://github.com/firefly-iii/import-configurations/blob/master/be/fintro/default.json)
 
+### Lithuania
+* [Swedbank](https://github.com/firefly-iii/import-configurations/blob/master/lt/swedbank/default.json)
+
 ## Adding an import configuration
 
 These instructions will help you add a configuration file to the project which others can use, by using the web pages directly on GitHub.com.  They don't include instructions for updating files locally from a sync'd repo on your machine.

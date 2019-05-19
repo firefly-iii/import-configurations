@@ -24,6 +24,7 @@ This repository contains standardized import configurations for Firefly III. Var
 ### Canada
 * [Simplii](https://github.com/firefly-iii/import-configurations/blob/master/ca/simplii/default.json)
 * [Tangerine](https://github.com/firefly-iii/import-configurations/blob/master/ca/tangerine/default.json)
+* [Questrade](https://github.com/firefly-iii/import-configurations/blob/master/ca/questrade/default.json)
 
 ### The Netherlands
 * [Rabobank (new CSV)](https://github.com/firefly-iii/import-configurations/blob/master/nl/rabobank/rabobank-new-csv-format.json)

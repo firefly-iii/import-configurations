@@ -1,0 +1,22 @@
+{
+    "file-type": "csv",
+    "date-format": "m\/d\/Y",
+    "has-headers": true,
+    "delimiter": ",",
+    "apply-rules": false,
+    "specifics": [],
+    "import-account": 1,
+    "column-count": 4,
+    "column-roles": [
+        "date-transaction",
+        "description",
+        "amount_credit",
+        "amount_debit"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false
+    ]
+}

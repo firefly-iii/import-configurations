@@ -10,8 +10,8 @@
     "column-roles": [
         "date-transaction",
         "description",
-        "amount_credit",
-        "amount_debit"
+        "amount_debit",
+        "amount_credit"
     ],
     "column-do-mapping": [
         false,

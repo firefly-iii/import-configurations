@@ -4,17 +4,15 @@
     "delimiter": ",",
     "import-account": 12,
     "specifics": [],
-    "column-count": 6,
+    "column-count": 5,
     "column-roles": [
         "date-transaction",
         "description",
         "amount_debit",
         "amount_credit",
-        "date-interest",
         "_ignore"
     ],
     "column-do-mapping": [
-        false,
         false,
         false,
         false,

@@ -60,6 +60,9 @@ This repository contains standardized import configurations for Firefly III. Var
 ### Lithuania
 * [Swedbank](https://github.com/firefly-iii/import-configurations/blob/master/lt/swedbank/default.json)
 
+### Hungary
+* [OTP](https://github.com/firefly-iii/import-configurations/blob/master/hu/otp/default.json)
+
 ## Adding an import configuration
 
 These instructions will help you add a configuration file to the project which others can use, by using the web pages directly on GitHub.com.  They don't include instructions for updating files locally from a sync'd repo on your machine.
@@ -72,3 +75,4 @@ These instructions will help you add a configuration file to the project which o
 * Type a commit title and message so the owner knows what benefits the change gives.
 * Select your account from the dropdown.
 * Select __Create a new branch for this commit and start a pull request__.
+

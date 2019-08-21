@@ -1,1 +1,39 @@
-
+{
+    "file-type": "csv",
+    "date-format": "ymd",
+    "has-headers": false,
+    "delimiter": ";",
+    "apply-rules": true,
+    "specifics": [],
+    "import-account": 1,
+    "column-count": 14,
+    "column-roles": [
+        "account-iban",
+        "_ignore",
+        "amount",
+        "currency-code",
+        "date-invoice",
+        "date-transaction",
+        "_ignore",
+        "opposing-iban",
+        "opposing-name",
+        "_ignore",
+        "description",
+        "_ignore",
+        "note",
+        "_ignore"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ]
+}

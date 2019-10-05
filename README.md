@@ -56,6 +56,7 @@ This repository contains standardized import configurations for Firefly III. Var
 
 ### Belgium
 * [Fintro](https://github.com/firefly-iii/import-configurations/blob/master/be/fintro/default.json)
+* [Argenta](https://github.com/firefly-iii/import-configurations/blob/master/be/argenta/default.json)
 
 ### Lithuania
 * [Swedbank](https://github.com/firefly-iii/import-configurations/blob/master/lt/swedbank/default.json)

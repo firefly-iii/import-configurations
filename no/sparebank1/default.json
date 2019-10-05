@@ -1,0 +1,30 @@
+{
+    "file-type": "csv",
+    "date-format": "d.m.Y",
+    "has-headers": true,
+    "delimiter": ";",
+    "apply-rules": true,
+    "specifics": [],
+    "import-account": 54,
+    "column-count": 8,
+    "column-roles": [
+        "date-transaction",
+        "description",
+        "date-interest",
+        "amount_credit",
+        "amount_debit",
+        "account-number",
+        "account-number",
+        "_ignore"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ]
+}

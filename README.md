@@ -64,6 +64,9 @@ This repository contains standardized import configurations for Firefly III. Var
 ### Hungary
 * [OTP](https://github.com/firefly-iii/import-configurations/blob/master/hu/otp/default.json)
 
+### Norway
+* [SpareBank 1](https://github.com/firefly-iii/import-configurations/blob/master/no/sparebank1/default.json)
+
 ## Adding an import configuration
 
 These instructions will help you add a configuration file to the project which others can use, by using the web pages directly on GitHub.com.  They don't include instructions for updating files locally from a sync'd repo on your machine.

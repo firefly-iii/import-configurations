@@ -13,8 +13,8 @@
         "_ignore",
         "_ignore",
         "category-name",
-        "amount_credit",
-        "amount_debit"
+        "_ignore",
+        "amount"
     ],
     "column-do-mapping": [
         true,
@@ -22,7 +22,7 @@
         false,
         false,
         true,
-        true,
+        false,
         true
     ],
     "column-mapping-config": {

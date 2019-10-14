@@ -5,7 +5,7 @@
     "delimiter": ",",
     "apply-rules": false,
     "specifics": [],
-    "import-account": 1,
+    "import-account": 19,
     "column-count": 7,
     "column-roles": [
         "date-transaction",
@@ -17,14 +17,15 @@
         "amount_debit"
     ],
     "column-do-mapping": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         true,
-        true,
-        true
+        false,
+        false
     ],
     "column-mapping-config": {
+        "4": []
     }
 }

@@ -1,0 +1,19 @@
+{
+    "file-type": "csv",
+    "date-format": "d/m/Y",
+    "has-headers": false,
+    "delimiter": ";",
+    "apply-rules": true,
+    "specifics": [],
+    "column-count": 3,
+    "column-roles": [
+        "date-transaction",
+        "description",
+        "amount"
+    ],
+    "column-do-mapping": [
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "has-headers": true,
+    "date-format": "Y-m-d",
+    "delimiter": ",",
+    "import-account": 4,
+    "specifics": [],
+    "column-count": 10,
+    "column-roles": [
+        "date-transaction",
+        "opposing-name",
+        "opposing-iban",
+        "_ignore",
+        "description",
+        "category-name",
+        "amount",
+        "amount_foreign",
+        "foreign-currency-code",
+        "_ignore"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "column-roles-complete": false,
+    "column-mapping-config": {
+        "3": [],
+        "7": [],
+        "9": [],
+        "11": [],
+        "13": []
+    },
+    "column-mapping-complete": false,
+    "file-type": "csv",
+    "apply-rules": true
+}

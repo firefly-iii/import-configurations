@@ -11,14 +11,14 @@
         "account-iban",
         "date-book",
         "date-process",
-        "_ignore",
-        "_ignore",
+        "external-id",
+        "description",
         "amount",
         "currency-code",
         "date-transaction",
         "opposing-iban",
         "opposing-name",
-        "description"
+        "note"
     ],
     "column-do-mapping": [
         false,

@@ -17,7 +17,7 @@
         "opposing-bic",
         "amount",
         "sepa_ct_op",
-        "_ignore",
+        "sepa_db",
         "_ignore",
         "_ignore"
     ],

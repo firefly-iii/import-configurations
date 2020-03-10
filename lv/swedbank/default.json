@@ -1,0 +1,40 @@
+{
+    "file-type": "csv",
+    "date-format": "d.m.Y",
+    "has-headers": true,
+    "delimiter": ";",
+    "apply-rules": false,
+    "specifics": [],
+    "import-account": 1,
+    "column-count": 13,
+    "column-roles": [
+        "account-iban",
+        "_ignore",
+        "date-transaction",
+        "opposing-name",
+        "description",
+        "amount",
+        "currency-code",
+        "rabo-debit-credit",
+        "external-id",
+        "_ignore",
+        "_ignore",
+        "_ignore",
+        "_ignore"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ]
+}

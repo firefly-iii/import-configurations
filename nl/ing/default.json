@@ -1,12 +1,14 @@
 {
-    "has-headers": true,
+    "file-type": "csv",
     "date-format": "Ymd",
+    "has-headers": true,
     "delimiter": ",",
-    "import-account": 1,
+    "apply_rules": true,
     "specifics": {
         "IngDescription": 1
     },
-    "column-count": 9,
+    "import-account": 1,
+    "column-count": 10,
     "column-roles": [
         "date-transaction",
         "opposing-name",
@@ -15,8 +17,9 @@
         "_ignore",
         "ing-debit-credit",
         "amount",
-        "_ignore",
-        "description"
+        "tags-comma",
+        "description",
+        "date-book"
     ],
     "column-do-mapping": [
         false,
@@ -27,15 +30,12 @@
         false,
         false,
         false,
+        false,
         false
     ],
-    "column-roles-complete": false,
     "column-mapping-config": {
         "1": [],
         "2": [],
         "3": []
-    },
-    "column-mapping-complete": false,
-    "apply_rules": true,
-    "match_bills": false
+    }
 }

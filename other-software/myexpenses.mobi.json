@@ -1,0 +1,41 @@
+{
+    "date": "d\/m\/y",
+    "delimiter": "semicolon",
+    "headers": true,
+    "rules": true,
+    "skip_form": true,
+    "add_import_tag": true,
+    "specifics": [],
+    "roles": [
+        "_ignore",
+        "date_transaction",
+        "opposing-name",
+        "amount_credit",
+        "amount_debit",
+        "category-name",
+        "tags-comma",
+        "description",
+        "_ignore",
+        "_ignore",
+        "_ignore",
+        "_ignore",
+        "_ignore"
+    ],
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "mapping": [],
+    "version": 2
+}

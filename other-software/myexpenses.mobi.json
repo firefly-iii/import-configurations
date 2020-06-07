@@ -2,6 +2,8 @@
     "date": "d\/m\/y",
     "delimiter": "semicolon",
     "headers": true,
+    "ignore_duplicate_lines": false,
+    "ignore_duplicate_transactions": false,
     "rules": true,
     "skip_form": true,
     "add_import_tag": true,

@@ -1,0 +1,35 @@
+{
+    "date": "d.m.Y",
+    "delimiter": "semicolon",
+    "headers": true,
+    "ignore_duplicate_lines": true,
+    "ignore_duplicate_transactions": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
+    "specifics": [],
+    "roles": [
+        "date_transaction",
+        "date_process",
+        "category-name",
+        "opposing-name",
+        "description",
+        "opposing-iban",
+        "opposing-bic",
+        "amount",
+        "currency-code"
+    ],
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "mapping": [],
+    "version": 2
+}

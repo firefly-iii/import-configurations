@@ -29,23 +29,7 @@
     },
     "mapping": {
         "3": {
-            "Akcesoria i wyposa\u017cenie": 28,
-            "Bez kategorii": 19,
-            "Elektronika": 4,
-            "Jedzenie poza domem": 16,
-            "Multimedia, ksi\u0105\u017cki i prasa": 31,
-            "Odzie\u017c i obuwie": 18,
-            "Op\u0142aty i odsetki": 10,
-            "Osobiste - inne": 9,
-            "Paliwo": 12,
-            "Remont i ogr\u00f3d": 20,
-            "Sp\u0142ata karty kredytowej": 26,
-            "Ubezpieczenia": 7,
-            "Wp\u0142ywy - inne": 19,
-            "Wyj\u015bcia i wydarzenia": 5,
-            "Zdrowie i uroda": 13,
-            "Zwierz\u0119ta": 1,
-            "\u017bywno\u015b\u0107 i chemia domowa": 11
+
         }
     },
     "version": 2

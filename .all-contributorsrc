@@ -13,6 +13,15 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "sebastianklein96",
+      "name": "Sebastian Klein",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22731416?v=4",
+      "profile": "https://github.com/sebastianklein96",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

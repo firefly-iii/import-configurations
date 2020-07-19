@@ -10,6 +10,12 @@ Browse the files above, which are grouped by country and then by bank.
 
 In the folder `other-software` you will find import configurations for other financial tools. In `firefly-iii`, you will find import configurations for Firefly III itself.
 
+## All contributors
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END --> 
+
 ## Adding an import configuration
 
 First of all, thanks for adding your configuration! 🎉
@@ -29,4 +35,3 @@ Then, finish the commit:
 1. Type a commit title and message so the owner knows what benefits the change gives.
 2. Select your account from the dropdown.
 3. Select __Create a new branch for this commit and start a pull request__.
-

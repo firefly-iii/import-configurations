@@ -1,5 +1,9 @@
 # Firefly III CSV importer configuration files
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END --> 
+
 This repository contains standardized import configurations for the [Firefly III CSV importer](https://github.com/firefly-iii/csv-importer).
 
 Various banks and financial institutions have already been added by contributing users. Thank you!
@@ -10,11 +14,9 @@ Browse the files above, which are grouped by country and then by bank.
 
 In the folder `other-software` you will find import configurations for other financial tools. In `firefly-iii`, you will find import configurations for Firefly III itself.
 
-## All contributors
+## Contributors
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
-<!-- ALL-CONTRIBUTORS-BADGE:END --> 
+<!-- here -->
 
 ## Adding an import configuration
 

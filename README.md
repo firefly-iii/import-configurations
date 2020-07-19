@@ -1,5 +1,6 @@
-# Firefly III Import Configurations
-This repository contains standardized import configurations for Firefly III. Various banks and financial institutions have already been added by contributing users. Thanks!
+# Firefly III CSV importer Configurations
+
+This repository contains standardized import configurations for the [Firefly III CSV importer](https://github.com/firefly-iii/csv-importer). Various banks and financial institutions have already been added by contributing users. Thank you all!
 
 ## Adding an import configuration
 

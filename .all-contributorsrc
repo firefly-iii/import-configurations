@@ -31,6 +31,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "muracz",
+      "name": "Marcin Uracz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9215725?v=4",
+      "profile": "https://github.com/muracz",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

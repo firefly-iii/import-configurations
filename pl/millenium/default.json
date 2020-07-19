@@ -1,0 +1,43 @@
+{
+    "date": "Y-m-d",
+    "delimiter": "comma",
+    "headers": true,
+    "ignore_duplicate_lines": false,
+    "ignore_duplicate_transactions": true,
+    "rules": false,
+    "skip_form": false,
+    "add_import_tag": true,
+    "specifics": [],
+    "roles": [
+        "_ignore",
+        "date_transaction",
+        "_ignore",
+        "_ignore",
+        "opposing-iban",
+        "opposing-name",
+        "description",
+        "amount_debit",
+        "amount_credit",
+        "_ignore",
+        "currency-name"
+    ],
+    "do_mapping": {
+        "4": true,
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false,
+        "9": false,
+        "10": false
+    },
+    "mapping": {
+        "4": {
+
+        }
+    },
+    "version": 2
+}

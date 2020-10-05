@@ -1,6 +1,6 @@
 # Firefly III CSV importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III CSV importer](https://github.com/firefly-iii/csv-importer).
@@ -20,9 +20,11 @@ In the folder `other-software` you will find import configurations for other fin
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://sakowi.cz"><img src="https://avatars0.githubusercontent.com/u/13169301?v=4" width="100px;" alt=""/><br /><sub><b>Szymon Sakowicz</b></sub></a><br /><a href="https://github.com/firefly-iii/import-configurations/commits?author=sakowicz" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://sakowi.cz"><img src="https://avatars0.githubusercontent.com/u/13169301?v=4" width="100px;" alt=""/><br /><sub><b>Szymon Sakowicz</b></sub></a><br /><a href="#content-sakowicz" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/muracz"><img src="https://avatars1.githubusercontent.com/u/9215725?v=4" width="100px;" alt=""/><br /><sub><b>Marcin Uracz</b></sub></a><br /><a href="#content-muracz" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/sebastianklein96"><img src="https://avatars2.githubusercontent.com/u/22731416?v=4" width="100px;" alt=""/><br /><sub><b>Sebastian Klein</b></sub></a><br /><a href="#content-sebastianklein96" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/muracz"><img src="https://avatars1.githubusercontent.com/u/9215725?v=4" width="100px;" alt=""/><br /><sub><b>Marcin Uracz</b></sub></a><br /><a href="#content-muracz" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/ilakast"><img src="https://avatars3.githubusercontent.com/u/1414477?v=4" width="100px;" alt=""/><br /><sub><b>ilakast</b></sub></a><br /><a href="https://github.com/firefly-iii/import-configurations/commits?author=ilakast" title="Documentation">📖</a> <a href="#content-ilakast" title="Content">🖋</a></td>
   </tr>
 </table>
 

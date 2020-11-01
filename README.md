@@ -1,6 +1,6 @@
 # Firefly III CSV importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III CSV importer](https://github.com/firefly-iii/csv-importer).
@@ -25,6 +25,7 @@ In the folder `other-software` you will find import configurations for other fin
     <td align="center"><a href="https://github.com/sebastianklein96"><img src="https://avatars2.githubusercontent.com/u/22731416?v=4" width="100px;" alt=""/><br /><sub><b>Sebastian Klein</b></sub></a><br /><a href="#content-sebastianklein96" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/muracz"><img src="https://avatars1.githubusercontent.com/u/9215725?v=4" width="100px;" alt=""/><br /><sub><b>Marcin Uracz</b></sub></a><br /><a href="#content-muracz" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ilakast"><img src="https://avatars3.githubusercontent.com/u/1414477?v=4" width="100px;" alt=""/><br /><sub><b>ilakast</b></sub></a><br /><a href="https://github.com/firefly-iii/import-configurations/commits?author=ilakast" title="Documentation">📖</a> <a href="#content-ilakast" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/baocin"><img src="https://avatars0.githubusercontent.com/u/5463986?v=4" width="100px;" alt=""/><br /><sub><b>Michael Pedersen</b></sub></a><br /><a href="#plugin-baocin" title="Plugin/utility libraries">🔌</a></td>
   </tr>
 </table>
 

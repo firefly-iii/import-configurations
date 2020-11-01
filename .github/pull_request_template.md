@@ -6,11 +6,3 @@ Changes in this pull request:
 
 @JC5
 
-<!-- 
-
-    Change "<YOUR USERNAME>" to your username to get automatic recognition
-	in the readme! 🎉
-
--->
-
-@all-contributors please add <YOUR USERNAME> for data

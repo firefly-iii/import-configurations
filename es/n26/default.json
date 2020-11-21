@@ -1,0 +1,32 @@
+{
+    "date": "Ymd",
+    "default_account": 1,
+    "delimiter": "comma",
+    "headers": true,
+    "ignore_duplicate_lines": true,
+    "ignore_duplicate_transactions": true,
+    "rules": true,
+    "skip_form": false,
+    "specifics": [],
+    "import-account": 1,
+    "column-count": 10,
+    "column-roles": [
+        "date",
+        "opposing-name",
+        "opposing-IBAN",
+        "tags",
+        "description",
+        "category-name",
+        "amount"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "version": 2
+}

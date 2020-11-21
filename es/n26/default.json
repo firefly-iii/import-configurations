@@ -1,5 +1,5 @@
 {
-    "date": "Ymd",
+    "date": "Y-m-d",
     "default_account": 1,
     "delimiter": "comma",
     "headers": true,
@@ -7,19 +7,24 @@
     "ignore_duplicate_transactions": true,
     "rules": true,
     "skip_form": false,
+    "add_import_tag": true,
     "specifics": [],
-    "import-account": 1,
-    "column-count": 10,
-    "column-roles": [
-        "date",
+    "roles": [
+        "date_transaction",
         "opposing-name",
-        "opposing-IBAN",
-        "tags",
+        "opposing-iban",
+        "tags-comma",
         "description",
         "category-name",
-        "amount"
+        "amount",
+        "_ignore",
+        "_ignore",
+        "_ignore"
     ],
-    "column-do-mapping": [
+    "do_mapping": [
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -28,5 +33,6 @@
         false,
         false
     ],
+    "mapping": [],
     "version": 2
 }

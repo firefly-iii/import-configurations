@@ -59,6 +59,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "federicociro",
+      "name": "Federico",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25438748?v=4",
+      "profile": "https://federicociro.com",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,

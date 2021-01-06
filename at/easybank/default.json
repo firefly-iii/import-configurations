@@ -1,26 +1,30 @@
 {
-    "file-type": "csv",
-    "date-format": "d.m.Y",
-    "has-headers": false,
-    "delimiter": ";",
-    "apply-rules": false,
+    "date": "d.m.Y",
+    "default_account": 1,
+    "delimiter": "semicolon",
+    "headers": false,
+    "ignore_duplicate_lines": true,
+    "ignore_duplicate_transactions": true,
+    "rules": false,
+    "skip_form": false,
+    "add_import_tag": true,
     "specifics": [],
-    "import-account": 12,
-    "column-count": 6,
-    "column-roles": [
+    "roles": [
         "account-iban",
         "description",
-        "date-payment",
-        "date-transaction",
+        "date_payment",
+        "date_transaction",
         "amount",
-        "foreign-currency-code"
+        "currency-code"
     ],
-    "column-do-mapping": [
+    "do_mapping": [
         false,
         false,
         false,
         false,
         false,
         false
-    ]
+    ],
+    "mapping": [],
+    "version": 2
 }

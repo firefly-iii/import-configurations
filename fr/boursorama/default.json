@@ -1,0 +1,39 @@
+{
+    "date": "d\/m\/Y",
+    "default_account": 1,
+    "delimiter": "semicolon",
+    "headers": true,
+    "ignore_duplicate_lines": true,
+    "ignore_duplicate_transactions": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
+    "specifics": [],
+    "roles": [
+        "date_transaction",
+        "date_process",
+        "description",
+        "category-name",
+        "_ignore",
+        "opposing-name",
+        "amount",
+        "account-number",
+        "account-name",
+        "_ignore"
+    ],
+    "do_mapping": {
+        "8": true,
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "9": false
+    },
+    "mapping": {
+    },
+    "version": 2
+}

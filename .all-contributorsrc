@@ -95,6 +95,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "isonet",
+      "name": "Paul Biester",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2650326?v=4",
+      "profile": "https://paul.biester.pro",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

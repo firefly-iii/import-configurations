@@ -104,6 +104,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "thiagogpa",
+      "name": "Thiago Andrade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39960304?v=4",
+      "profile": "https://www.linkedin.com/in/thiagogpa/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

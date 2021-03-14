@@ -113,6 +113,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "rolisz",
+      "name": "Roland Szabo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/426313?v=4",
+      "profile": "http://rolisz.ro",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

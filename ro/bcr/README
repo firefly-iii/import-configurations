@@ -1,0 +1,5 @@
+There are a few things you have to be aware of while working with BCR Bank's George and Firefly III.
+
+* Make sure you configure the csv export like my example in the folder called bcr.png
+* Because George let's you download the csv just UTF-16LB encoded, you have to convert it to UTF-8 before importing in Firefly III. 
+  You can do this using Notepad++: click on Encoding in top menu and then on UTF8.

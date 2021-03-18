@@ -15,17 +15,19 @@
         "amount_debit",
         "_ignore"
     ],
-    "do_mapping": {
-        "0": false,
-        "1": false,
-        "2": false,
-        "3": false,
-        "4": false,
-        "5": false
-    },
-    "mapping": { },
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "mapping": [],
     "duplicate_detection_method": "classic",
-    "ignore_duplicate_lines": false,
+    "ignore_duplicate_lines": true,
     "ignore_duplicate_transactions": true,
-    "version": 2,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "version": 2
 }

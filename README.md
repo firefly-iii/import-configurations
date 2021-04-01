@@ -1,6 +1,6 @@
 # Firefly III CSV importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III CSV importer](https://github.com/firefly-iii/csv-importer).
@@ -35,6 +35,7 @@ In the folder `other-software` you will find import configurations for other fin
     <td align="center"><a href="https://paul.biester.pro"><img src="https://avatars0.githubusercontent.com/u/2650326?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paul Biester</b></sub></a><br /><a href="#content-isonet" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/thiagogpa/"><img src="https://avatars.githubusercontent.com/u/39960304?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thiago Andrade</b></sub></a><br /><a href="#content-thiagogpa" title="Content">🖋</a></td>
     <td align="center"><a href="http://rolisz.ro"><img src="https://avatars.githubusercontent.com/u/426313?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Roland Szabo</b></sub></a><br /><a href="#content-rolisz" title="Content">🖋</a></td>
+    <td align="center"><a href="http://kenric.in/"><img src="https://avatars.githubusercontent.com/u/5753813?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kenric D'Souza</b></sub></a><br /><a href="#content-AzureByte" title="Content">🖋</a></td>
   </tr>
 </table>
 

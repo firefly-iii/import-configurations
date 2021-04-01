@@ -131,6 +131,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "baletskyi",
+      "name": "Alex Baletskyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11590484?v=4",
+      "profile": "https://baletskyi.me",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

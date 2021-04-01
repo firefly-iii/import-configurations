@@ -122,6 +122,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "AzureByte",
+      "name": "Kenric D'Souza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5753813?v=4",
+      "profile": "http://kenric.in/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

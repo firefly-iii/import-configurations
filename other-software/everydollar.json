@@ -1,0 +1,33 @@
+{
+    "date": "m\/d\/Y",
+    "default_account": 1,
+    "delimiter": "comma",
+    "headers": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
+    "specifics": [],
+    "roles": [
+        "category-name",
+        "description",
+        "_ignore",
+        "date_transaction",
+        "opposing-name",
+        "amount"
+    ],
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "mapping": [],
+    "duplicate_detection_method": "classic",
+    "ignore_duplicate_lines": true,
+    "ignore_duplicate_transactions": true,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "version": 2
+}

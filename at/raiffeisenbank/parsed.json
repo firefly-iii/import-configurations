@@ -1,0 +1,40 @@
+{
+  "file-type": "csv",
+  "date-format": "d.m.Y",
+  "has-headers": false,
+  "delimiter": ";",
+  "apply-rules": true,
+  "default_account": 1,
+  "specifics": [],
+  "import-account": 1,
+  "ignore_duplicate_lines": true,
+  "ignore_duplicate_transactions": true,
+  "column-count": 11,
+  "column-roles": [
+    "date-payment",
+    "description",
+    "date-transaction",
+    "amount",
+    "currency-code",
+    "_ignore",
+    "opposing-name",
+    "opposing-iban",
+    "opposing-bic",
+    "_ignore",
+    "note"
+  ],
+  "column-do-mapping": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+  ]
+}

@@ -1,47 +1,64 @@
 {
-    "file-type": "csv",
-    "date-format": "Y-m-d\\TH:i:s\\Z",
-    "has-headers": true,
-    "delimiter": ",",
-    "apply-rules": true,
+    "date": "d\/m\/Y",
+    "default_account": 26,
+    "delimiter": "comma",
+    "headers": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
     "specifics": [],
-    "import-account": 12,
-    "column-count": 12,
-    "column-roles": [
+    "roles": [
         "_ignore",
-        "date-transaction",
+        "date_transaction",
         "_ignore",
         "_ignore",
-        "amount",
+        "_ignore",
         "_ignore",
         "category-name",
         "_ignore",
+        "currency-code",
+        "_ignore",
+        "_ignore",
+        "_ignore",
+        "_ignore",
+        "_ignore",
         "description",
         "_ignore",
-        "note",
-        "_ignore"
+        "amount_debit",
+        "amount_credit"
     ],
-    "column-do-mapping": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false
-    ],
-    "column-mapping-config": {
-        "3": [],
+    "do_mapping": {
+        "6": true,
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "7": false,
+        "8": false,
+        "9": false,
+        "10": false,
+        "11": false,
+        "12": false,
+        "13": false,
+        "14": false,
+        "15": false,
+        "16": false,
+        "17": false
+    },
+    "mapping": {
         "6": {
             "cash": 8,
             "eating_out": 4,
             "entertainment": 11,
             "groceries": 4
         }
-    }
+    },
+    "duplicate_detection_method": "classic",
+    "ignore_duplicate_lines": false,
+    "ignore_duplicate_transactions": true,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "version": 2
 }

@@ -1,0 +1,39 @@
+{
+    "date": "d\/m\/Y",
+    "default_account": 1,
+    "delimiter": "comma",
+    "headers": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
+    "specifics": [],
+    "roles": [
+        "date_transaction",
+        "_ignore",
+        "_ignore",
+        "account-number",
+        "description",
+        "amount_debit",
+        "amount_credit",
+        "_ignore",
+        "_ignore"
+    ],
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+
+    "duplicate_detection_method": "none",
+    "ignore_duplicate_lines": false,
+    "ignore_duplicate_transactions": false,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "version": 2
+}

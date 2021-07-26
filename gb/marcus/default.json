@@ -1,0 +1,33 @@
+{
+    "date": "Ymd",
+    "default_account": 8,
+    "delimiter": "comma",
+    "headers": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
+    "specifics": [],
+    "roles": [
+        "date_transaction",
+        "description",
+        "amount_debit",
+        "_ignore",
+        "_ignore",
+        "account-number"
+    ],
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "mapping": [],
+    "duplicate_detection_method": "none",
+    "ignore_duplicate_lines": false,
+    "ignore_duplicate_transactions": false,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "version": 2
+}

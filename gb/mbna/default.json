@@ -1,6 +1,6 @@
 {
     "date": "d\/m\/Y",
-    "default_account": 1,
+    "default_account": 7,
     "delimiter": "comma",
     "headers": true,
     "rules": true,
@@ -11,11 +11,8 @@
         "date_transaction",
         "_ignore",
         "_ignore",
-        "account-number",
         "description",
         "amount_debit",
-        "amount_credit",
-        "_ignore",
         "_ignore"
     ],
     "do_mapping": [
@@ -24,12 +21,8 @@
         false,
         false,
         false,
-        false,
-        false,
-        false,
         false
     ],
-
     "duplicate_detection_method": "none",
     "ignore_duplicate_lines": false,
     "ignore_duplicate_transactions": false,

@@ -1,6 +1,6 @@
 {
     "date": "d\/m\/Y",
-    "default_account": 1,
+    "default_account": 8,
     "delimiter": "comma",
     "headers": true,
     "rules": true,
@@ -10,11 +10,12 @@
     "roles": [
         "date_transaction",
         "_ignore",
-        "_ignore",
-        "account-number",
-        "description",
         "amount_debit",
-        "amount_credit",
+        "description",
+        "_ignore",
+        "_ignore",
+        "_ignore",
+        "_ignore",
         "_ignore",
         "_ignore"
     ],
@@ -27,9 +28,10 @@
         false,
         false,
         false,
+        false,
         false
     ],
-
+    "mapping": [],
     "duplicate_detection_method": "none",
     "ignore_duplicate_lines": false,
     "ignore_duplicate_transactions": false,

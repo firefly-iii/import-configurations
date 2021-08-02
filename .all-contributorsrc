@@ -176,6 +176,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "leonjza",
+      "name": "Leon Jacobs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1148127?v=4",
+      "profile": "https://leonjza.github.io/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

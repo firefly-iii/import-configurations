@@ -10,6 +10,8 @@ There are a few things you have to be aware of while working with DKB and Firefl
 
 4. You should remove the fake transaction labelled `Abschluss`. It appears on the first of every month and only displays the current account balance. Because the format is not a valid transaction, the CSV importer will throw an error on this line. This is optional because the error does not do any harm besides showing up.
 
+5. You may wish to set `skip_form` to `true` in your local copy of the configurations to skip a few clicks. By default the form is presented so that you can double-check the configuration before you perform your first import.
+
 ## Automation
 
-If you wish to automate these steps, have a look at [Firefly III DKB CSV Fixer](https://github.com/MadWalnut/firefly-iii-dkb-csv-fix). It can apply all needed changes to your CSV file with single command or click.
+If you wish to automate steps 1-4, have a look at [Firefly III DKB CSV Fixer](https://github.com/MadWalnut/firefly-iii-dkb-csv-fix). It can apply all needed changes to your CSV file with a single command or click.

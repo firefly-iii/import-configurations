@@ -1,6 +1,6 @@
 # Firefly III CSV importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III CSV importer](https://github.com/firefly-iii/csv-importer).
@@ -44,6 +44,7 @@ In the folder `other-software` you will find import configurations for other fin
     <td align="center"><a href="https://github.com/weissi1994"><img src="https://avatars.githubusercontent.com/u/846897?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Weissengruber</b></sub></a><br /><a href="#content-weissi1994" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/niallperks"><img src="https://avatars.githubusercontent.com/u/35839988?v=4?s=100" width="100px;" alt=""/><br /><sub><b>niallperks</b></sub></a><br /><a href="#content-niallperks" title="Content">🖋</a></td>
     <td align="center"><a href="https://leonjza.github.io/"><img src="https://avatars.githubusercontent.com/u/1148127?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Leon Jacobs</b></sub></a><br /><a href="#content-leonjza" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Dave4234"><img src="https://avatars.githubusercontent.com/u/86469014?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dave4234</b></sub></a><br /><a href="#content-Dave4234" title="Content">🖋</a></td>
   </tr>
 </table>
 

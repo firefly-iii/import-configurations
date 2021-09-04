@@ -194,6 +194,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "marcquark",
+      "name": "Marc Leuser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23556080?v=4",
+      "profile": "https://github.com/marcquark",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

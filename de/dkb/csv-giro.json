@@ -1,15 +1,15 @@
 {
-    "file-type": "csv",
-    "date-format": "d.m.Y",
-    "has-headers": true,
-    "delimiter": ";",
-    "apply-rules": true,
+    "date": "d.m.Y",
+    "default_account": 1,
+    "delimiter": "semicolon",
+    "headers": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
     "specifics": [],
-    "import-account": 1,
-    "column-count": 12,
-    "column-roles": [
-        "date-book",
-        "date-transaction",
+    "roles": [
+        "date_book",
+        "date_transaction",
         "note",
         "opposing-name",
         "description",
@@ -21,7 +21,7 @@
         "_ignore",
         "_ignore"
     ],
-    "column-do-mapping": [
+    "do_mapping": [
         false,
         false,
         false,
@@ -34,5 +34,12 @@
         false,
         false,
         false
-    ]
+    ],
+    "mapping": [],
+    "duplicate_detection_method": "none",
+    "ignore_duplicate_lines": false,
+    "ignore_duplicate_transactions": false,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "version": 2
 }

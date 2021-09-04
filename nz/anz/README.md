@@ -3,6 +3,7 @@ These config files provide configuration for exports from ANZ New Zealand accoun
 
 ## Which file?
 The file "default.json" is the standard config for most accounts (e.g. Go, Flexiloan).
+
 The file "csv-credit.json" is the config for transactions from a credit card account.
 
 ## ANZ transaction export

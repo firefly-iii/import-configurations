@@ -203,6 +203,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "arbezerra",
+      "name": "André Ricardo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5190728?v=4",
+      "profile": "https://github.com/arbezerra",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

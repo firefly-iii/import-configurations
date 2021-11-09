@@ -1,0 +1,37 @@
+{
+    "date": "d.m.Y",
+    "delimiter": "semicolon",
+    "headers": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
+    "default_account": 1,
+    "specifics": [],
+    "roles": [
+        "date_transaction",
+        "_ignore",
+        "opposing-name",
+        "_ignore",
+        "description",
+        "_ignore",
+        "_ignore",
+        "amount",
+        "_ignore"
+    ],
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+	"mapping": [],
+    "duplicate_detection_method": "classic",
+    "ignore_duplicate_lines": false,
+    "ignore_duplicate_transactions": true,
+    "version": 2
+}

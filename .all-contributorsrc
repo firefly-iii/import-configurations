@@ -212,6 +212,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "le-jou",
+      "name": "Lennard Jouvenal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28442160?v=4",
+      "profile": "https://github.com/le-jou",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

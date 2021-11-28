@@ -1,0 +1,41 @@
+{
+  "date": "d\/m\/Y H:i",
+  "default_account": 1,
+  "delimiter": "semicolon",
+  "headers": true,
+  "rules": true,
+  "skip_form": true,
+  "add_import_tag": false,
+  "specifics": [],
+  "roles": [
+    "date_book",
+    "account-iban",
+    "description",
+    "_ignore",
+    "amount_debit",
+    "currency-code",
+    "date_process",
+    "internal_reference",
+    "_ignore",
+    "_ignore"
+  ],
+  "do_mapping": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "mapping": [],
+  "duplicate_detection_method": "classic",
+  "ignore_duplicate_lines": true,
+  "ignore_duplicate_transactions": true,
+  "unique_column_index": 0,
+  "unique_column_type": "internal_reference",
+  "version": 2
+}

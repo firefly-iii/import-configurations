@@ -1,9 +1,9 @@
-# Firefly III CSV importer configuration files
+# Firefly III Data Importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repository contains standardized import configurations for the [Firefly III CSV importer](https://github.com/firefly-iii/csv-importer).
+This repository contains standardized import configurations for the [Firefly III Data Importer](https://github.com/firefly-iii/data-importer).
 
 Various banks and financial institutions have already been added by contributing users. Thank you!
 
@@ -79,3 +79,18 @@ Then, finish the commit:
 1. Type a commit title and message so the owner knows what benefits the change gives.
 2. Select your account from the dropdown.
 3. Select __Create a new branch for this commit and start a pull request__.
+
+### Support the development of Firefly III
+
+If you like Firefly III and if it helps you save lots of money, why not send me a dime for every dollar saved! :tada:
+
+OK that was a joke. If you feel Firefly III made your life better, consider contributing as a sponsor. Please check out my [Patreon](https://www.patreon.com/jc5) and [GitHub Sponsors](https://github.com/sponsors/JC5) page for more information. Thank you for considering donating to Firefly III!
+
+## Contact
+
+You can contact me at [james@firefly-iii.org](mailto:james@firefly-iii.org), you may open an issue or contact me through the support channels:
+
+- [GitHub Discussions for questions and support](https://github.com/firefly-iii/firefly-iii/discussions/)
+- [Gitter.im for a good chat and a quick answer](https://gitter.im/firefly-iii/firefly-iii)
+- [GitHub Issues for bugs and issues](https://github.com/firefly-iii/firefly-iii/issues)
+- [Follow me around for news and updates on Twitter](https://twitter.com/Firefly_iii)

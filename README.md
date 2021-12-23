@@ -13,6 +13,41 @@ Browse the files above, which are grouped by country and then by bank.
 
 In the folder `other-software` you will find import configurations for other financial tools. In `firefly-iii`, you will find import configurations for Firefly III itself.
 
+## Adding an import configuration
+
+First of all, thanks for adding your configuration! 🎉
+
+These instructions will help you add a configuration file to the project which others can use. You can do this on GitHub itself, without having to use command line tools or weird commands.
+
+1. Find the correct country code for the bank your configuration file relates to. Check out [this list of country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
+2. Log into GitHub and fork the project using the icon at the top right of the screen.  More info can be found in [the GitHub help pages](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
+3. From the forked repo select **Create New File**.
+4. To create folders type `<country code>/<bank name>/default.json` e.g `gb/monzo/default.json`.
+5. Paste your `.json` file contents into the file window.
+
+⚠️ Before you continue, make sure that the JSON file contains no private data, like account names.
+
+Then, finish the commit:
+
+1. Type a commit title and message so the owner knows what benefits the change gives.
+2. Select your account from the dropdown.
+3. Select __Create a new branch for this commit and start a pull request__.
+
+### Support the development of Firefly III
+
+If you like Firefly III and if it helps you save lots of money, why not send me a dime for every dollar saved! :tada:
+
+OK that was a joke. If you feel Firefly III made your life better, consider contributing as a sponsor. Please check out my [Patreon](https://www.patreon.com/jc5) and [GitHub Sponsors](https://github.com/sponsors/JC5) page for more information. Thank you for considering donating to Firefly III!
+
+## Contact
+
+You can contact me at [james@firefly-iii.org](mailto:james@firefly-iii.org), you may open an issue or contact me through the support channels:
+
+- [GitHub Discussions for questions and support](https://github.com/firefly-iii/firefly-iii/discussions/)
+- [Gitter.im for a good chat and a quick answer](https://gitter.im/firefly-iii/firefly-iii)
+- [GitHub Issues for bugs and issues](https://github.com/firefly-iii/firefly-iii/issues)
+- [Follow me around for news and updates on Twitter](https://twitter.com/Firefly_iii)
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -59,38 +94,3 @@ In the folder `other-software` you will find import configurations for other fin
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Adding an import configuration
-
-First of all, thanks for adding your configuration! 🎉
-
-These instructions will help you add a configuration file to the project which others can use. You can do this on GitHub itself, without having to use command line tools or weird commands.
-
-1. Find the correct country code for the bank your configuration file relates to. Check out [this list of country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
-2. Log into GitHub and fork the project using the icon at the top right of the screen.  More info can be found in [the GitHub help pages](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
-3. From the forked repo select **Create New File**.
-4. To create folders type `<country code>/<bank name>/default.json` e.g `gb/monzo/default.json`.
-5. Paste your `.json` file contents into the file window.
-
-⚠️ Before you continue, make sure that the JSON file contains no private data, like account names.
-
-Then, finish the commit:
-
-1. Type a commit title and message so the owner knows what benefits the change gives.
-2. Select your account from the dropdown.
-3. Select __Create a new branch for this commit and start a pull request__.
-
-### Support the development of Firefly III
-
-If you like Firefly III and if it helps you save lots of money, why not send me a dime for every dollar saved! :tada:
-
-OK that was a joke. If you feel Firefly III made your life better, consider contributing as a sponsor. Please check out my [Patreon](https://www.patreon.com/jc5) and [GitHub Sponsors](https://github.com/sponsors/JC5) page for more information. Thank you for considering donating to Firefly III!
-
-## Contact
-
-You can contact me at [james@firefly-iii.org](mailto:james@firefly-iii.org), you may open an issue or contact me through the support channels:
-
-- [GitHub Discussions for questions and support](https://github.com/firefly-iii/firefly-iii/discussions/)
-- [Gitter.im for a good chat and a quick answer](https://gitter.im/firefly-iii/firefly-iii)
-- [GitHub Issues for bugs and issues](https://github.com/firefly-iii/firefly-iii/issues)
-- [Follow me around for news and updates on Twitter](https://twitter.com/Firefly_iii)

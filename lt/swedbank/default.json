@@ -1,16 +1,18 @@
 {
-    "file-type": "csv",
-    "date-format": "Y-m-d",
-    "has-headers": true,
-    "delimiter": ",",
-    "apply-rules": false,
-    "specifics": [],
-    "import-account": 1,
-    "column-count": 17,
-    "column-roles": [
+    "version": 3,
+    "source": "fidi-0.9.0",
+    "created_at": "2022-02-20T07:44:50+01:00",
+    "date": "Y-m-d",
+    "default_account": 0,
+    "delimiter": "comma",
+    "headers": true,
+    "rules": false,
+    "skip_form": false,
+    "add_import_tag": true,
+    "roles": [
         "account-iban",
         "_ignore",
-        "date-transaction",
+        "date_transaction",
         "opposing-name",
         "description",
         "amount",
@@ -26,7 +28,7 @@
         "_ignore",
         "_ignore"
     ],
-    "column-do-mapping": [
+    "do_mapping": [
         false,
         false,
         false,
@@ -44,5 +46,26 @@
         false,
         false,
         false
-    ]
+    ],
+    "mapping": [],
+    "duplicate_detection_method": "classic",
+    "ignore_duplicate_lines": true,
+    "ignore_duplicate_transactions": true,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "flow": "csv",
+    "identifier": "0",
+    "connection": "0",
+    "ignore_spectre_categories": false,
+    "map_all_data": false,
+    "accounts": [],
+    "date_range": "all",
+    "date_range_number": 30,
+    "date_range_unit": "d",
+    "date_not_before": "",
+    "date_not_after": "",
+    "nordigen_country": "",
+    "nordigen_bank": "",
+    "nordigen_requisitions": [],
+    "conversion": false
 }

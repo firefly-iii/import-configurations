@@ -1,27 +1,27 @@
 {
-    "file-type": "csv",
-    "date-format": "Ymd",
-    "has-headers": false,
+    "version": 3,
+    "source": "fidi-0.9.0",
+    "created_at": "2022-02-20T07:44:50+01:00",
+    "date": "Ymd",
+    "default_account": 0,
     "delimiter": "tab",
-    "apply-rules": true,
-    "specifics": {
-        "AbnAmroDescription": 1
-    },
-    "import-account": 1,
-    "column-count": 10,
-    "column-roles": [
+    "headers": false,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
+    "roles": [
         "account-number",
         "currency-code",
-        "date-transaction",
+        "date_transaction",
         "_ignore",
         "_ignore",
-        "date-interest",
+        "date_interest",
         "amount",
         "description",
         "opposing-name",
         "opposing-iban"
     ],
-    "column-do-mapping": [
+    "do_mapping": [
         true,
         true,
         false,
@@ -33,13 +33,25 @@
         true,
         true
     ],
-    "column-roles-complete": false,
-    "column-mapping-config": {
-        "0": [],
-        "1": {
-            "EUR": 1
-        },
-        "8": [],
-        "9": []
-    }
+    "mapping": [],
+    "duplicate_detection_method": "classic",
+    "ignore_duplicate_lines": true,
+    "ignore_duplicate_transactions": true,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "flow": "csv",
+    "identifier": "0",
+    "connection": "0",
+    "ignore_spectre_categories": false,
+    "map_all_data": false,
+    "accounts": [],
+    "date_range": "all",
+    "date_range_number": 30,
+    "date_range_unit": "d",
+    "date_not_before": "",
+    "date_not_after": "",
+    "nordigen_country": "",
+    "nordigen_bank": "",
+    "nordigen_requisitions": [],
+    "conversion": false
 }

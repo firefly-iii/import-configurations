@@ -1,12 +1,14 @@
 {
+    "version": 3,
+    "source": "fidi-0.9.0",
+    "created_at": "2022-02-20T07:33:28+01:00",
     "date": "d\/m\/Y",
-    "default_account": 26,
+    "default_account": 0,
     "delimiter": "comma",
     "headers": true,
     "rules": true,
     "skip_form": false,
     "add_import_tag": true,
-    "specifics": [],
     "roles": [
         "_ignore",
         "date_transaction",
@@ -47,18 +49,25 @@
         "16": false,
         "17": false
     },
-    "mapping": {
-        "6": {
-            "cash": 8,
-            "eating_out": 4,
-            "entertainment": 11,
-            "groceries": 4
-        }
-    },
+    "mapping": [],
     "duplicate_detection_method": "classic",
     "ignore_duplicate_lines": false,
     "ignore_duplicate_transactions": true,
     "unique_column_index": 0,
     "unique_column_type": "internal_reference",
-    "version": 2
+    "flow": "csv",
+    "identifier": "0",
+    "connection": "0",
+    "ignore_spectre_categories": false,
+    "map_all_data": false,
+    "accounts": [],
+    "date_range": "all",
+    "date_range_number": 30,
+    "date_range_unit": "d",
+    "date_not_before": "",
+    "date_not_after": "",
+    "nordigen_country": "",
+    "nordigen_bank": "",
+    "nordigen_requisitions": [],
+    "conversion": false
 }

@@ -1,13 +1,17 @@
 {
-    "has-headers": true,
-    "date-format": "Y-m-d",
-    "delimiter": ",",
-    "import-account": 0,
-    "specifics": [],
-    "column-count": 14,
-    "column-roles": [
+    "version": 3,
+    "source": "fidi-0.9.0",
+    "created_at": "2022-02-20T07:33:28+01:00",
+    "date": "Y-m-d",
+    "default_account": 0,
+    "delimiter": "comma",
+    "headers": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
+    "roles": [
         "_ignore",
-        "date-transaction",
+        "date_transaction",
         "description",
         "currency-code",
         "amount",
@@ -21,7 +25,7 @@
         "_ignore",
         "category-name"
     ],
-    "column-do-mapping": [
+    "do_mapping": [
         false,
         false,
         false,
@@ -37,13 +41,25 @@
         false,
         true
     ],
-    "column-roles-complete": false,
-    "column-mapping-config": {
-        "3": [],
-        "7": [],
-        "9": [],
-        "11": [],
-        "13": []
-    },
-    "column-mapping-complete": false
+    "mapping": [],
+    "duplicate_detection_method": "classic",
+    "ignore_duplicate_lines": true,
+    "ignore_duplicate_transactions": true,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "flow": "csv",
+    "identifier": "0",
+    "connection": "0",
+    "ignore_spectre_categories": false,
+    "map_all_data": false,
+    "accounts": [],
+    "date_range": "all",
+    "date_range_number": 30,
+    "date_range_unit": "d",
+    "date_not_before": "",
+    "date_not_after": "",
+    "nordigen_country": "",
+    "nordigen_bank": "",
+    "nordigen_requisitions": [],
+    "conversion": false
 }

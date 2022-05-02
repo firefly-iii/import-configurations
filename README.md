@@ -1,6 +1,6 @@
 # Firefly III Data Importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III Data Importer](https://github.com/firefly-iii/data-importer).
@@ -88,6 +88,7 @@ You can contact me at [james@firefly-iii.org](mailto:james@firefly-iii.org), you
     <td align="center"><a href="https://github.com/leizhang"><img src="https://avatars.githubusercontent.com/u/140418?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lei Zhang</b></sub></a><br /><a href="#content-leizhang" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/zannis"><img src="https://avatars.githubusercontent.com/u/1011451?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zannis Kalampoukis</b></sub></a><br /><a href="#content-zannis" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/mblankenstein"><img src="https://avatars.githubusercontent.com/u/802221?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michel Blankenstein</b></sub></a><br /><a href="#content-mblankenstein" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/terencejackson8000"><img src="https://avatars.githubusercontent.com/u/14046007?v=4?s=100" width="100px;" alt=""/><br /><sub><b>terencejackson8000</b></sub></a><br /><a href="#content-terencejackson8000" title="Content">🖋</a></td>
   </tr>
 </table>
 

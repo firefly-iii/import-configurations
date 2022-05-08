@@ -38,8 +38,8 @@
     "date_range_unit": "d",
     "date_not_before": "",
     "date_not_after": "",
-    "nordigen_country": "",
-    "nordigen_bank": "",
+    "nordigen_country": "GB",
+    "nordigen_bank": "STARLING_SRLGGB3L",
     "nordigen_requisitions": [],
     "conversion": false
 }

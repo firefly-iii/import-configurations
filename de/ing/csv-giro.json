@@ -48,8 +48,8 @@
     "date_range_unit": "d",
     "date_not_before": "",
     "date_not_after": "",
-    "nordigen_country": "",
-    "nordigen_bank": "",
+    "nordigen_country": "DE",
+    "nordigen_bank": "ING_INGDDEFF",
     "nordigen_requisitions": [],
     "conversion": false
 }

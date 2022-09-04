@@ -91,7 +91,7 @@ You can contact me at [james@firefly-iii.org](mailto:james@firefly-iii.org), you
     <td align="center"><a href="https://github.com/terencejackson8000"><img src="https://avatars.githubusercontent.com/u/14046007?v=4?s=100" width="100px;" alt=""/><br /><sub><b>terencejackson8000</b></sub></a><br /><a href="#content-terencejackson8000" title="Content">🖋</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://yassfuentes.es"><img src="https://avatars.githubusercontent.com/u/60194650?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yass Fuentes</b></sub></a><br /><a href="#content-backmind" title="Content">🖋</a></td>
+    <td align="center"><a href="http://yassfuentes.es"><img src="https://avatars.githubusercontent.com/u/60194650?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yass Fuentes</b></sub></a><br /><a href="#content-backmind" title="Content">🖋</a> <a href="#data-backmind" title="Data">🔣</a></td>
   </tr>
 </table>
 

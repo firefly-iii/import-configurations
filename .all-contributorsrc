@@ -265,7 +265,15 @@
       "profile": "http://yassfuentes.es",
       "contributions": [
         "content",
-        "data"
+      ],
+    },
+    {
+      "login": "fergalc",
+      "name": "fergalc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3813285?v=4",
+      "profile": "https://github.com/fergalc",
+      "contributions": [
+        "content"
       ]
     }
   ],

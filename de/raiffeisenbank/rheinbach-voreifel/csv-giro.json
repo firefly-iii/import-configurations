@@ -3,7 +3,7 @@
   "delimiter": "semicolon",
   "headers": true,
   "rules": true,
-  "skip_form": true,
+  "skip_form": false,
   "add_import_tag": true,
   "roles": [
     "_ignore",

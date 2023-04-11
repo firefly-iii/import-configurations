@@ -1,6 +1,6 @@
 # Firefly III Data Importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III Data Importer](https://github.com/firefly-iii/data-importer).
@@ -96,6 +96,7 @@ You can contact me at [james@firefly-iii.org](mailto:james@firefly-iii.org), you
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fergalc"><img src="https://avatars.githubusercontent.com/u/3813285?v=4?s=100" width="100px;" alt="fergalc"/><br /><sub><b>fergalc</b></sub></a><br /><a href="#content-fergalc" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://z3ntu.xyz"><img src="https://avatars.githubusercontent.com/u/3768500?v=4?s=100" width="100px;" alt="Luca Weiss"/><br /><sub><b>Luca Weiss</b></sub></a><br /><a href="#content-z3ntu" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/C9Glax"><img src="https://avatars.githubusercontent.com/u/13404778?v=4?s=100" width="100px;" alt="Glax"/><br /><sub><b>Glax</b></sub></a><br /><a href="#content-C9Glax" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://saxobroko.com"><img src="https://avatars.githubusercontent.com/u/18757374?v=4?s=100" width="100px;" alt="Saxo_Broko"/><br /><sub><b>Saxo_Broko</b></sub></a><br /><a href="#content-saxobroko" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

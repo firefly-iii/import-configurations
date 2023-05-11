@@ -302,6 +302,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Svedrin",
+      "name": "Michael Ziegler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/946488?v=4",
+      "profile": "https://github.com/Svedrin",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

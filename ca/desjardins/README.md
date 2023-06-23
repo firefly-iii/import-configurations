@@ -1,0 +1,2 @@
+Use `account.json` for CSVs exported from "Relevés" in the "CSV Accentué (Microsoft Excel...)" format,
+you can combine multiple months of export manually (copy paste content, one after the other), and imported them as one single file.

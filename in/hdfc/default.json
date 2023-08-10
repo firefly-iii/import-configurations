@@ -16,11 +16,9 @@
         "debit_amount",
         "credit_amount",
         "chq/ref_number",
-        "closing_balance",
-        "_ignore"
+        "closing_balance"
     ],
     "do_mapping": [
-        false,
         false,
         false,
         false,

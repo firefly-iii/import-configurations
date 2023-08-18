@@ -329,6 +329,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "tabias",
+      "name": "tabias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6348309?v=4",
+      "profile": "https://github.com/tabias",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

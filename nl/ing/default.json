@@ -4,7 +4,7 @@
     "created_at": "2022-02-20T07:44:50+01:00",
     "date": "Ymd",
     "default_account": 0,
-    "delimiter": "comma",
+    "delimiter": "semicolon",
     "headers": true,
     "rules": true,
     "skip_form": false,
@@ -18,8 +18,8 @@
         "ing-debit-credit",
         "amount",
         "tags-comma",
-        "description",
-        "date_book"
+        "_ignore",
+        "_ignore"
     ],
     "do_mapping": [
         false,

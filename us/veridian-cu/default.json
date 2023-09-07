@@ -13,7 +13,7 @@
         "external-id",
         "date_transaction",
         "date_process",
-        "generic-debit-credit",
+        "_ignore",
         "amount",
         "_ignore",
         "external-id",

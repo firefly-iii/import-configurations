@@ -1,6 +1,6 @@
 # Firefly III Data Importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III Data Importer](https://github.com/firefly-iii/data-importer).
@@ -103,6 +103,7 @@ You can contact me at [james@firefly-iii.org](mailto:james@firefly-iii.org), you
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/aasiddiq"><img src="https://avatars.githubusercontent.com/u/9424117?v=4?s=100" width="100px;" alt="Aadil Siddiqui"/><br /><sub><b>Aadil Siddiqui</b></sub></a><br /><a href="#content-aasiddiq" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tabias"><img src="https://avatars.githubusercontent.com/u/6348309?v=4?s=100" width="100px;" alt="tabias"/><br /><sub><b>tabias</b></sub></a><br /><a href="#content-tabias" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://daviddaily.dev"><img src="https://avatars.githubusercontent.com/u/18452976?v=4?s=100" width="100px;" alt="Daily the Noob"/><br /><sub><b>Daily the Noob</b></sub></a><br /><a href="#content-DailytheNoob" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

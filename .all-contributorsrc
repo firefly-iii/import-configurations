@@ -338,6 +338,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "DailytheNoob",
+      "name": "Daily the Noob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18452976?v=4",
+      "profile": "http://daviddaily.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

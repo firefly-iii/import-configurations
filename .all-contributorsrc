@@ -347,6 +347,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "OscarTienda",
+      "name": "Óscar Tienda Beteta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89542749?v=4",
+      "profile": "https://github.com/OscarTienda",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

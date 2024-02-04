@@ -1,6 +1,6 @@
 # Firefly III Data Importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III Data Importer](https://github.com/firefly-iii/data-importer).
@@ -114,6 +114,7 @@ Do you want to contact me? You can email me at [james@firefly-iii.org](mailto:ja
       <td align="center" valign="top" width="14.28%"><a href="http://daviddaily.dev"><img src="https://avatars.githubusercontent.com/u/18452976?v=4?s=100" width="100px;" alt="Daily the Noob"/><br /><sub><b>Daily the Noob</b></sub></a><br /><a href="#content-DailytheNoob" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OscarTienda"><img src="https://avatars.githubusercontent.com/u/89542749?v=4?s=100" width="100px;" alt="Óscar Tienda Beteta"/><br /><sub><b>Óscar Tienda Beteta</b></sub></a><br /><a href="#content-OscarTienda" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Danjaraka"><img src="https://avatars.githubusercontent.com/u/38589122?v=4?s=100" width="100px;" alt="Daniel"/><br /><sub><b>Daniel</b></sub></a><br /><a href="#data-Danjaraka" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/poupouproject"><img src="https://avatars.githubusercontent.com/u/60460181?v=4?s=100" width="100px;" alt="YellowWait"/><br /><sub><b>YellowWait</b></sub></a><br /><a href="#data-poupouproject" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>

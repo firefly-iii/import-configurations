@@ -1,17 +1,17 @@
-# Configuration d'Importation RBC pour Firefly III Data Importer
+# RBC Import Configuration for Firefly III Data Importer
 
-Ce fichier de configuration JSON est conçu pour être utilisé avec l'outil d'importation de données Firefly III, permettant l'importation automatique des transactions financières depuis les relevés de compte de la Royal Bank of Canada (RBC) vers Firefly III.
+This JSON configuration file is designed for use with the Firefly III data import tool, allowing for the automatic importation of financial transactions from the Royal Bank of Canada (RBC) account statements into Firefly III.
 
-## Structure du Fichier de Configuration
+## Configuration File Structure
 
-- **Version et Source :** Ce fichier est basé sur la version 3 du format de fichier de configuration et est conçu pour fonctionner avec la version `ff3-importer-1.4.1` de l'importateur de données Firefly III.
-- **Format de Date :** La date des transactions est attendue au format `n/j/Y` (mois/jour/année).
-- **Délimiteur :** Les colonnes dans le fichier CSV sont séparées par des virgules.
-- **Entêtes et Règles :** Le fichier d'importation contient des en-têtes, et les règles d'importation sont activées.
+- **Version and Source:** This file is based on version 3 of the configuration file format and is designed to work with version `ff3-importer-1.4.1` of the Firefly III data importer.
+- **Date Format:** The date of transactions is expected in the `n/j/Y` format (month/day/year).
+- **Delimiter:** The columns in the CSV file are separated by commas.
+- **Headers and Rules:** The import file contains headers, and import rules are enabled.
 
-## Format du Fichier CSV
+## CSV File Format
 
-Votre fichier CSV provenant de RBC doit contenir les colonnes suivantes :
+Your CSV file from RBC must contain the following columns:
 
 1. _Type de compte (ce champ est ignoré dans cette configuration)_
 2. Numéro du compte
@@ -22,10 +22,10 @@ Votre fichier CSV provenant de RBC doit contenir les colonnes suivantes :
 7. CAD (montant de la transaction en dollars canadiens)
 8. _USD (ce champ est ignoré dans cette configuration)_
 
-## Détection des Doublons
+## Duplicate Detection
 
-La méthode de détection des doublons `classique` est utilisée pour éviter l'importation de transactions en double.
+The `classic` duplicate detection method is used to avoid importing duplicate transactions.
 
-## Conversion de Devise
+## Currency Conversion
 
-La conversion de devise est activée, permettant la conversion automatique des montants des transactions en devise principale de votre compte Firefly III si nécessaire.
+Currency conversion is enabled, allowing for the automatic conversion of transaction amounts to the primary currency of your Firefly III account if necessary.

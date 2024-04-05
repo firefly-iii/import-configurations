@@ -1,6 +1,6 @@
 # Firefly III Data Importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III Data Importer](https://github.com/firefly-iii/data-importer).
@@ -119,6 +119,7 @@ Do you want to contact me? You can email me at [james@firefly-iii.org](mailto:ja
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/carloss2108"><img src="https://avatars.githubusercontent.com/u/109926901?v=4?s=100" width="100px;" alt="Carlos Sandoval"/><br /><sub><b>Carlos Sandoval</b></sub></a><br /><a href="#content-carloss2108" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kubaid"><img src="https://avatars.githubusercontent.com/u/26386834?v=4?s=100" width="100px;" alt="Jakub Idzik"/><br /><sub><b>Jakub Idzik</b></sub></a><br /><a href="#content-kubaid" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

@@ -393,6 +393,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "kubaid",
+      "name": "Jakub Idzik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26386834?v=4",
+      "profile": "https://github.com/kubaid",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

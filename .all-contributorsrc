@@ -411,6 +411,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "fabianonetto",
+      "name": "Fabiano Netto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15900163?v=4",
+      "profile": "https://github.com/fabianonetto",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

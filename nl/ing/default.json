@@ -1,7 +1,7 @@
 {
     "version": 3,
-    "source": "fidi-0.9.0",
-    "created_at": "2022-02-20T07:44:50+01:00",
+    "source": "ff3-importer-1.5.2",
+    "created_at": "2024-06-21T11:43:12+02:00",
     "date": "Ymd",
     "default_account": 0,
     "delimiter": "semicolon",
@@ -18,8 +18,9 @@
         "ing-debit-credit",
         "amount",
         "tags-comma",
+        "note",
         "_ignore",
-        "_ignore"
+        "tags-comma"
     ],
     "do_mapping": [
         false,
@@ -31,21 +32,25 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "mapping": [],
     "duplicate_detection_method": "classic",
     "ignore_duplicate_lines": true,
-    "ignore_duplicate_transactions": true,
     "unique_column_index": 0,
     "unique_column_type": "internal_reference",
-    "flow": "csv",
+    "flow": "file",
+    "content_type": "csv",
+    "custom_tag": "",
     "identifier": "0",
     "connection": "0",
     "ignore_spectre_categories": false,
+    "grouped_transaction_handling": "",
+    "use_entire_opposing_address": false,
     "map_all_data": false,
     "accounts": [],
-    "date_range": "all",
+    "date_range": "",
     "date_range_number": 30,
     "date_range_unit": "d",
     "date_not_before": "",
@@ -53,5 +58,7 @@
     "nordigen_country": "",
     "nordigen_bank": "",
     "nordigen_requisitions": [],
-    "conversion": false
+    "nordigen_max_days": "90",
+    "conversion": false,
+    "ignore_duplicate_transactions": true
 }

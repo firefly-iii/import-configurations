@@ -429,6 +429,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "0xjams",
+      "name": "Jorge Moran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1040997?v=4",
+      "profile": "https://0xjams.com",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,

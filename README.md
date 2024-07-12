@@ -1,6 +1,6 @@
 # Firefly III Data Importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III Data Importer](https://github.com/firefly-iii/data-importer).
@@ -123,6 +123,7 @@ Do you want to contact me? You can email me at [james@firefly-iii.org](mailto:ja
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FranLl"><img src="https://avatars.githubusercontent.com/u/71821841?v=4?s=100" width="100px;" alt="Fran"/><br /><sub><b>Fran</b></sub></a><br /><a href="#content-FranLl" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fabianonetto"><img src="https://avatars.githubusercontent.com/u/15900163?v=4?s=100" width="100px;" alt="Fabiano Netto"/><br /><sub><b>Fabiano Netto</b></sub></a><br /><a href="#content-fabianonetto" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Omar007"><img src="https://avatars.githubusercontent.com/u/5380079?v=4?s=100" width="100px;" alt="Omar Pakker"/><br /><sub><b>Omar Pakker</b></sub></a><br /><a href="#data-Omar007" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://0xjams.com"><img src="https://avatars.githubusercontent.com/u/1040997?v=4?s=100" width="100px;" alt="Jorge Moran"/><br /><sub><b>Jorge Moran</b></sub></a><br /><a href="#data-0xjams" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>

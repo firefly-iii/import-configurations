@@ -6,12 +6,14 @@ You'll need to edit the exported CSV before the import configuration will work.
 #### Create a valid CSV out of the downloaded file
 
 Remove everything above the table of transactions (except the headers) and the last line (the summary):
-  - Automatically in Linux: run `tail -n +5 /path/to/your/Accounts.csv > /path/to/your/Accounts_edit.csv`
-  - Manually removing the first 4 lines
+  - Automatically in Linux: run 
+    - `sed -i '1,4d;$d' /path/to/your/Accounts.csv` or
+    - `sed '1,4d;$d' /path/to/your/Accounts.csv > /path/to/your/Accounts_edit.csv` if you want to keep the original file
+  - Manually removing the first 4 lines and the last line in a text editor
 
-#### Replace `�` with matching umlauts (optional)
+#### Fix `�` in the export (optional)
 
-Although the csv file is formatted UTF-8, all umlauts are represented by a placeholder.
+The csv file is encoded in ISO-8859-1, therefore all umlauts are represented by a placeholder. You can try to change the encoding in whatever text editor you use, or run the following command in Linux: `iconv -f ISO-8859-1 -t UTF-8 /path/to/your/Accounts_edit.csv > /path/to/your/Accounts_utf8.csv`
 
 ### Example header
 

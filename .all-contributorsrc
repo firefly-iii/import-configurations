@@ -457,6 +457,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "Gamma-Software",
+      "name": "Valentin Rudloff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6960910?v=4",
+      "profile": "http://valentin.pival.fr",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,

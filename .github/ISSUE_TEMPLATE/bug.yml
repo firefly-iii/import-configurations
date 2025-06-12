@@ -1,0 +1,39 @@
+name: Bug report
+description: Report a bug in an import configuration file
+body:
+  - type: checkboxes
+    attributes:
+      label: Support guidelines
+      description: Please read the support guidelines before proceeding.
+      options:
+        - label: I've read the [support guidelines](https://github.com/firefly-iii/firefly-iii/blob/main/.github/support.md)
+          required: true
+
+  - type: checkboxes
+    attributes:
+      label: I've found a bug and checked that ...
+      description: Make sure that your request fulfills all of the following requirements. If one requirement cannot be satisfied, please explain why.
+      options:
+        - label: ... [the documentation](https://docs.firefly-iii.org/) does not mention anything about my problem
+        - label: ... there are no open or closed issues that are related to my problem
+        - label: ... it's [definitely a import configuration issue, not me](https://github.com/firefly-iii/firefly-iii/blob/main/.github/its_you_not_me.md)
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: Please provide a brief description of the bug in 1-2 sentences.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Debug information
+      description: Please provide the table from the /debug page. Do not add backticks or quotes.
+      placeholder: The output from the /debug page
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional info
+      description: Please provide any additional information that seems useful.

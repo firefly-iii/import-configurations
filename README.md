@@ -1,6 +1,6 @@
 # Firefly III Data Importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III Data Importer](https://github.com/firefly-iii/data-importer).
@@ -129,6 +129,7 @@ Do you want to contact me? You can email me at [james@firefly-iii.org](mailto:ja
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/evan-hossain"><img src="https://avatars.githubusercontent.com/u/121196448?v=4?s=100" width="100px;" alt="Evan Hossain"/><br /><sub><b>Evan Hossain</b></sub></a><br /><a href="#data-evan-hossain" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://valentin.pival.fr"><img src="https://avatars.githubusercontent.com/u/6960910?v=4?s=100" width="100px;" alt="Valentin Rudloff"/><br /><sub><b>Valentin Rudloff</b></sub></a><br /><a href="#data-Gamma-Software" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.emmaneiss.net"><img src="https://avatars.githubusercontent.com/u/33004979?v=4?s=100" width="100px;" alt="Emma Neiss"/><br /><sub><b>Emma Neiss</b></sub></a><br /><a href="#data-eneiss" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>

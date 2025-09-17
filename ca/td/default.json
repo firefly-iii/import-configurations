@@ -29,7 +29,7 @@
     "ignore_duplicate_transactions": true,
     "unique_column_index": 0,
     "unique_column_type": "",
-    "flow": "csv",
+    "flow": "file",
     "identifier": "0",
     "connection": "0",
     "ignore_spectre_categories": false,

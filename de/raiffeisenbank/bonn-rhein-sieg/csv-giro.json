@@ -50,6 +50,6 @@
 	"mapping": [],
 	"duplicate_detection_method": "classic",
 	"version": 3,
-	"flow": "csv",
+	"flow": "file",
 	"conversion": false
 }

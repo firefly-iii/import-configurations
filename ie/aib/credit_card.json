@@ -6,6 +6,8 @@
     "delimiter": "comma",
     "headers": true,
     "rules": true,
+    "default_account": 0,
+    "mapping": {},
     "skip_form": false,
     "add_import_tag": true,
     "roles": [

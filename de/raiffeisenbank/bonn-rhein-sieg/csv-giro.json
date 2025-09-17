@@ -3,6 +3,9 @@
 	"delimiter": "semicolon",
 	"headers": true,
 	"rules": true,
+	"default_account": 0,
+	"ignore_duplicate_lines": true,
+	"ignore_duplicate_transactions": true,
 	"skip_form": false,
 	"add_import_tag": true,
 	"roles": [
@@ -48,6 +51,8 @@
 		false
 	],
 	"mapping": [],
+	"unique_column_index": 0,
+    "unique_column_type": "internal_reference",
 	"duplicate_detection_method": "classic",
 	"version": 3,
 	"flow": "file",

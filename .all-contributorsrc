@@ -475,6 +475,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "remcotolsma",
+      "name": "Remco Tolsma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/869674?v=4",
+      "profile": "https://www.remcotolsma.nl/",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,

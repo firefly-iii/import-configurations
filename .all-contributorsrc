@@ -484,6 +484,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "sector7gp",
+      "name": "Pablo Gon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1781640?v=4",
+      "profile": "http://www.sector7gp.com",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,

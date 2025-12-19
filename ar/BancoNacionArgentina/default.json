@@ -1,0 +1,35 @@
+{
+    "version": 3,
+    "source": "ff3-importer-1.9.1",
+    "created_at": "2025-12-15T16:35:17-03:00",
+    "date": "d\/m\/Y",
+    "default_account": 0,
+    "delimiter": "semicolon",
+    "headers": true,
+    "rules": true,
+    "skip_form": true,
+    "add_import_tag": true,
+    "roles": [
+        "date_transaction",
+        "description",
+        "amount",
+        "_ignore",
+        "note"
+    ],
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "mapping": {},
+    "duplicate_detection_method": "classic",
+    "ignore_duplicate_lines": true,
+    "unique_column_index": 0,
+    "unique_column_type": "internal_reference",
+    "flow": "file",
+    "content_type": "csv",
+    "conversion": false,
+    "ignore_duplicate_transactions": true
+}

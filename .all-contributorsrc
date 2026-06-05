@@ -502,6 +502,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "boosie",
+      "name": "boosie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6100068?v=4",
+      "profile": "https://github.com/BOOSIE",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,

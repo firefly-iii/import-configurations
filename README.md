@@ -1,6 +1,6 @@
 # Firefly III Data Importer configuration files
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository contains standardized import configurations for the [Firefly III Data Importer](https://github.com/firefly-iii/data-importer).
@@ -133,6 +133,7 @@ Do you want to contact me? You can email me at [james@firefly-iii.org](mailto:ja
       <td align="center" valign="top" width="14.28%"><a href="https://www.remcotolsma.nl/"><img src="https://avatars.githubusercontent.com/u/869674?v=4?s=100" width="100px;" alt="Remco Tolsma"/><br /><sub><b>Remco Tolsma</b></sub></a><br /><a href="#data-remcotolsma" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.sector7gp.com"><img src="https://avatars.githubusercontent.com/u/1781640?v=4?s=100" width="100px;" alt="Pablo Gon"/><br /><sub><b>Pablo Gon</b></sub></a><br /><a href="#data-sector7gp" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/photovoltex"><img src="https://avatars.githubusercontent.com/u/36958734?v=4?s=100" width="100px;" alt="Felix Prillwitz"/><br /><sub><b>Felix Prillwitz</b></sub></a><br /><a href="#data-photovoltex" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BOOSIE"><img src="https://avatars.githubusercontent.com/u/6100068?v=4?s=100" width="100px;" alt="boosie"/><br /><sub><b>boosie</b></sub></a><br /><a href="#data-boosie" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>

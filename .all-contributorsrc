@@ -511,6 +511,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "tibequadorian",
+      "name": "tibequadorian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9560587?v=4",
+      "profile": "https://codeberg.org/tibequadorian",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,

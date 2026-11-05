@@ -1,0 +1,36 @@
+{
+    "version": 3,
+    "date": "Y-m-d",
+    "default_account": 0,
+    "delimiter": "comma",
+    "headers": true,
+    "rules": false,
+    "skip_form": false,
+    "add_import_tag": true,
+    "roles": [
+        "date_transaction",
+        "description",
+        "amount",
+        "currency-code",
+        "external-id",
+        "_ignore",
+        "note"
+    ],
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "mapping": [],
+    "duplicate_detection_method": "cell",
+    "ignore_duplicate_lines": false,
+    "ignore_duplicate_transactions": true,
+    "unique_column_index": 4,
+    "unique_column_type": "external-id",
+    "flow": "file",
+    "conversion": false
+}
